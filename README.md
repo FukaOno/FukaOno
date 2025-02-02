@@ -1,6 +1,6 @@
 # Fuka Ono
 
-## Connect with Me
+## ✉️Connect with Me
 - Contact: **fuka.ono@mail.mcgill.ca**
 
 <a href="https://linkedin.com/in/fukaono" target="_blank">
@@ -8,7 +8,7 @@
 </a>
   
 
-## Education
+## 📚Education
 <table>
   <tr>
     <td><img src="https://logonoid.com/images/mcgill-logo.png" width="100" alt="McGill Logo"></td>
