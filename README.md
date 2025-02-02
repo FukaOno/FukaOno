@@ -16,7 +16,6 @@
   </tr>
 </table>
 
-**Bachelor of Arts**  
 *May 2027*
 
 ## Skills
