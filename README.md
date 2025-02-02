@@ -1,29 +1,38 @@
 # Fuka Ono
 
 ## Connect with Me
-* Contact: **fuka.ono@mail.mcgill.ca**
+- Contact: **fuka.ono@mail.mcgill.ca**
+
+<a href="https://linkedin.com/in/fukaono" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fuka Ono" />
+</a>
+  
 
 ## Education
+<table>
+  <tr>
+    <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fmcgill&psig=AOvVaw2NTE44dli3ncUtbb86BRgI&ust=1738613464494000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj1uILmpYsDFQAAAAAdAAAAABAR" width="100" alt="McGill Logo"></td>
+    <td><strong>McGill Universtiy | Computer Science and Honours Economics</strong></td>
+  </tr>
+</table>
 
-### McGill University
-**Computer Science and Honours Economics** *May 2027*
+**Bachelor of Arts**  
+*May 2027*
 
 ## Skills
 
 ### Programming Languages
-* Python
-* R
-* SQL
-
-### Cloud Services
-* AWS
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### DevOps and Tools
-* Git
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Design and Development
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ### Database Management
-* MySQL
-* PostgreSQL
-* (MongoDB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
