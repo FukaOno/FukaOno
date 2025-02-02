@@ -11,7 +11,7 @@
 ## Education
 <table>
   <tr>
-    <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fmcgill&psig=AOvVaw2NTE44dli3ncUtbb86BRgI&ust=1738613464494000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj1uILmpYsDFQAAAAAdAAAAABAR" width="100" alt="McGill Logo"></td>
+    <td><img src="https://seeklogo.com/images/M/McGill_University-logo-76309264EE-seeklogo.com.png" width="100" alt="McGill Logo"></td>
     <td><strong>McGill Universtiy | Computer Science and Honours Economics</strong></td>
   </tr>
 </table>
